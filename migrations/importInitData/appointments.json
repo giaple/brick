@@ -1,0 +1,1804 @@
+[{
+  "_id": {
+    "$oid": "6469f0334693a504163ae897"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9130"
+  },
+  "status": "DONE",
+  "startDate": {
+    "$date": "2023-04-12T01:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-12T03:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T10:19:31.615Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T10:25:19.977Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "6469f40f4693a504163ae8df"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9111"
+  },
+  "status": "DONE",
+  "startDate": {
+    "$date": "2023-04-13T08:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-13T10:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T10:35:59.743Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T10:37:39.988Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "6469f6a6721cb2b11642802d"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db914c"
+  },
+  "status": "DONE",
+  "startDate": {
+    "$date": "2023-04-13T11:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-13T13:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T10:47:02.331Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T10:47:53.939Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "6469f7e14693a504163ae91c"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9112"
+  },
+  "status": "DONE",
+  "startDate": {
+    "$date": "2023-04-14T10:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-14T12:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T10:52:17.189Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T10:54:54.961Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "6469fa544693a504163ae92b"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9113"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-14T05:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-14T02:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:02:44.938Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:09:40.374Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "6469fef1721cb2b116428083"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9114"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-14T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-14T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:22:25.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:19:42.281Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "6469ffa24693a504163ae947"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9153"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-25T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-25T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:25:22.997Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:25:22.997Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6469ffea721cb2b11642808a"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9153"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-25T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-25T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:26:34.833Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:26:34.833Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a003c721cb2b116428091"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9122"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-21T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-21T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:27:56.637Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:30:03.315Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0093721cb2b116428098"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9115"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-15T09:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-15T11:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:29:23.267Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:20:30.440Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a00b0721cb2b11642809f"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9152"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-22T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-22T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:29:52.508Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:20:24.035Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db9081"
+  }
+},{
+  "_id": {
+    "$oid": "646a0109721cb2b1164280a6"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9116"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-15T09:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-15T11:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:31:21.454Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:21:07.901Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a012b721cb2b1164280ad"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9122"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-21T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-21T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:31:55.453Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:30:41.998Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a01b64693a504163ae94e"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9117"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-15T07:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-15T09:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:34:14.123Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:21:47.127Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a01ed721cb2b1164280b7"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9152"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-21T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-21T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:35:09.928Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:35:09.928Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0274721cb2b1164280be"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9123"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-22T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-22T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:37:24.466Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:31:13.002Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0311721cb2b1164280c5"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9118"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-16T03:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-16T05:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:40:01.076Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:22:21.466Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0323721cb2b1164280cc"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db914f"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-21T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-21T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:40:19.555Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:40:19.555Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a036b721cb2b1164280d3"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9124"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-22T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-22T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:41:31.636Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:31:35.362Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0403721cb2b1164280da"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9125"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-22T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-22T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:44:03.121Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:32:07.970Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a04f0721cb2b1164280e1"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db914d"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-22T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-22T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:48:00.603Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:22:48.104Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a052c4693a504163ae955"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913c"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-17T07:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-17T09:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:49:00.204Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:23:20.219Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a057c4693a504163ae95c"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9127"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-23T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-23T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:50:20.296Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:33:57.185Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a05d24693a504163ae963"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9128"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-23T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-23T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:51:46.228Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:34:18.817Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a06364693a504163ae96a"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db911a"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-17T02:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-17T06:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:53:26.610Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:24:20.869Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a070f721cb2b1164280e8"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9145"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-17T11:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-17T13:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:57:03.859Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:57:03.859Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a07404693a504163ae971"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9129"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-23T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-23T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:57:52.688Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:34:49.484Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a079c4693a504163ae978"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db911b"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-18T02:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-18T04:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:59:24.845Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:25:41.092Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a07b14693a504163ae97f"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9129"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-23T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-23T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T11:59:45.694Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:35:14.100Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db9080"
+  }
+},{
+  "_id": {
+    "$oid": "646a081a4693a504163ae986"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db911c"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-18T07:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-18T09:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:01:30.311Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:26:13.066Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0821721cb2b1164280ef"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db912a"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-23T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-23T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:01:37.851Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:35:40.221Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db9080"
+  }
+},{
+  "_id": {
+    "$oid": "646a0825721cb2b1164280f6"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db914d"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-20T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-20T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:01:41.187Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:32:41.667Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db9080"
+  }
+},{
+  "_id": {
+    "$oid": "646a086f721cb2b1164280fd"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db914c"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-20T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-20T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:02:55.021Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:02:55.021Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a08a94693a504163ae98d"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db912b"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-23T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-23T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:03:53.848Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:36:11.335Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db9080"
+  }
+},{
+  "_id": {
+    "$oid": "646a08ed721cb2b116428104"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db911d"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-18T10:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-18T12:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:05:01.365Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:26:42.050Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a090f721cb2b11642810b"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db912c"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-24T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-24T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:05:35.905Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:36:43.074Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a092e721cb2b116428112"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db914b"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-20T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-20T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:06:06.384Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:06:06.384Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a09c4721cb2b116428119"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9149"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-19T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-19T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:08:36.240Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:08:36.240Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0a1a721cb2b116428120"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db912d"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-24T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-24T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:10:02.050Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:37:10.548Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0a7f4693a504163ae994"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9150"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-21T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-21T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:11:43.383Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:11:43.383Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0a95721cb2b116428127"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9142"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-19T08:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-19T12:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:12:05.185Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:27:08.642Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0aa7721cb2b11642812e"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db912e"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-24T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-24T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:12:23.096Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:37:38.013Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0acc721cb2b116428135"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db914a"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-19T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-19T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:13:00.522Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:13:00.522Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0aeb721cb2b11642813c"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9148"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-19T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-19T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:13:31.996Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:13:31.996Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0afa721cb2b116428143"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9148"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-19T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-19T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:13:46.617Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:13:46.617Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0b23721cb2b11642814a"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db911e"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-19T08:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-19T12:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:14:27.744Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:28:19.918Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0b2e4693a504163ae99b"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913a"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-25T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-25T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:14:38.583Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:38:14.518Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0b474693a504163ae9a2"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9146"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-18T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-19T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:15:03.126Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:15:03.126Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0bdb4693a504163ae9a9"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db911f"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-20T07:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-20T10:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:17:31.791Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:28:49.178Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0bdc721cb2b116428151"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9146"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-18T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-19T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:17:32.105Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:24:55.463Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0c494693a504163ae9b0"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9120"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-20T10:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-20T12:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:19:21.973Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:29:10.437Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0c59721cb2b116428158"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9138"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-29T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-29T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:19:37.196Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:06:52.691Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0ce7721cb2b11642815f"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9138"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-29T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-29T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:21:59.676Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:05:54.181Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0d61721cb2b116428166"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9136"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-28T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-28T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:24:01.084Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:05:15.543Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0d61721cb2b11642816d"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9136"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-28T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-28T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:24:01.918Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:05:28.661Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0d8d4693a504163ae9b7"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9121"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-21T02:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-21T04:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:24:45.059Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:29:40.599Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0dbc4693a504163ae9be"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9135"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-28T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-28T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:25:32.462Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:40:09.669Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0e08721cb2b116428174"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9143"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-16T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-16T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:26:48.888Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:26:48.888Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0e3d4693a504163ae9c5"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9133"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-26T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-26T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:27:41.884Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:39:39.911Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db9080"
+  }
+},{
+  "_id": {
+    "$oid": "646a0e704693a504163ae9cc"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9142"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-13T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-16T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:28:32.064Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:28:32.064Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0edb721cb2b11642817b"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9130"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-25T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-25T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:30:19.041Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:38:40.507Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0f08721cb2b116428182"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9131"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-25T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-25T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:31:04.983Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:33:30.884Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0f0f721cb2b116428189"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9140"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-12T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-12T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:31:11.701Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:17:48.244Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a0f34721cb2b116428190"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9132"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-04-25T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-04-25T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T12:31:48.655Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:39:12.203Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a1c7e4693a504163aeaf2"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913f"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-11T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-11T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T13:28:30.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:16:44.285Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db9081"
+  }
+},{
+  "_id": {
+    "$oid": "646a1d064693a504163aeb55"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913e"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-11T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-11T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T13:30:46.294Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:15:10.555Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a1db14693a504163aebc0"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db9122"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-09T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-09T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T13:33:37.327Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:13:49.979Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db9080"
+  }
+},{
+  "_id": {
+    "$oid": "646a1e4c4693a504163aec3b"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913d"
+  },
+  "status": "DONE",
+  "startDate": {
+    "$date": "2023-05-09T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-09T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T13:36:12.302Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:12:20.317Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db907f"
+  }
+},{
+  "_id": {
+    "$oid": "646a1ed94693a504163aec9a"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913a"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-08T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-08T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T13:38:33.426Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:38:33.426Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a1fc4721cb2b11642824e"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913a"
+  },
+  "status": "DONE",
+  "startDate": {
+    "$date": "2023-05-07T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-07T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T13:42:28.486Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:09:22.204Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db9080"
+  }
+},{
+  "_id": {
+    "$oid": "646a20994693a504163aece4"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913c"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-08T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-08T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T13:46:01.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:46:01.010Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a21354693a504163aeceb"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913c"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-07T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-07T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T13:48:37.968Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:48:37.968Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a21804693a504163aecf2"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913b"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-08T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-08T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T13:49:52.362Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:10:37.384Z"
+  },
+  "__v": 0,
+  "workerId": {
+    "$oid": "646651f87bafbcaa64db9080"
+  }
+},{
+  "_id": {
+    "$oid": "646a21ea4693a504163aecf9"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913b"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-12T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-12T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T13:51:38.547Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:51:38.547Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a221d4693a504163aed00"
+  },
+  "customerId": {
+    "$oid": "64666f327bafbcaa64db913b"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-17T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-17T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T13:52:29.865Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:52:29.865Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a261e721cb2b116428274"
+  },
+  "customerId": {
+    "$oid": "6469eae242bb099e0249f37c"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-27T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-27T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T14:09:34.785Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:09:34.785Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a263f721cb2b11642827f"
+  },
+  "customerId": {
+    "$oid": "6469eafb42bb099e0249f37e"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-27T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-27T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T14:10:07.433Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:10:07.433Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a2653721cb2b11642828a"
+  },
+  "customerId": {
+    "$oid": "6469eb1242bb099e0249f380"
+  },
+  "status": "SCHEDULED",
+  "startDate": {
+    "$date": "2023-05-27T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-05-27T14:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-21T14:10:27.236Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:10:27.236Z"
+  },
+  "__v": 0
+}]

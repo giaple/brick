@@ -1,0 +1,1398 @@
+[{
+  "_id": {
+    "$oid": "6469f0334693a504163ae895"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9130"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T10:19:31.576Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T10:27:29.430Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "6469f40f4693a504163ae8dd"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9111"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T10:35:59.725Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T10:38:30.980Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "6469f6a6721cb2b11642802b"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db914c"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T10:47:02.317Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T10:48:09.739Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "6469f7e14693a504163ae91a"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9112"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T10:52:17.178Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T10:55:23.823Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "6469fa544693a504163ae929"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9113"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 350000,
+  "createdAt": {
+    "$date": "2023-05-21T11:02:44.928Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:09:30.266Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "6469fef1721cb2b116428081"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9114"
+  },
+  "paymentMethod": "BANK",
+  "status": "DONE",
+  "amount": 245000,
+  "createdAt": {
+    "$date": "2023-05-21T11:22:25.846Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:20:02.845Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "6469ffa24693a504163ae945"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9153"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 147000,
+  "createdAt": {
+    "$date": "2023-05-21T11:25:22.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:25:22.988Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6469ffea721cb2b116428088"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9153"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 147000,
+  "createdAt": {
+    "$date": "2023-05-21T11:26:34.825Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:26:34.825Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a003c721cb2b11642808f"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9122"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T11:27:56.627Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:30:21.693Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0093721cb2b116428096"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9115"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 150000,
+  "createdAt": {
+    "$date": "2023-05-21T11:29:23.255Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:20:39.509Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a00b0721cb2b11642809d"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9152"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T11:29:52.501Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:29:52.501Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0109721cb2b1164280a4"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9116"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 200000,
+  "createdAt": {
+    "$date": "2023-05-21T11:31:21.443Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:21:18.596Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a012b721cb2b1164280ab"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9122"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T11:31:55.437Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:30:48.245Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a01b64693a504163ae94c"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9117"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T11:34:14.112Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:21:57.987Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a01ed721cb2b1164280b5"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9152"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 180000,
+  "createdAt": {
+    "$date": "2023-05-21T11:35:09.886Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:35:09.886Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0274721cb2b1164280bc"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9123"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 325000,
+  "createdAt": {
+    "$date": "2023-05-21T11:37:24.453Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:31:19.184Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0311721cb2b1164280c3"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9118"
+  },
+  "paymentMethod": "BANK",
+  "status": "DONE",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T11:40:01.066Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:22:29.605Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0323721cb2b1164280ca"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db914f"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 470000,
+  "createdAt": {
+    "$date": "2023-05-21T11:40:19.548Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:40:19.548Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a036b721cb2b1164280d1"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9123"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T11:41:31.629Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:31:45.466Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0403721cb2b1164280d8"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9125"
+  },
+  "paymentMethod": "BANK",
+  "status": "DONE",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T11:44:03.113Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:32:15.898Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a04f0721cb2b1164280df"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db914d"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 100000,
+  "createdAt": {
+    "$date": "2023-05-21T11:48:00.592Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:23:01.780Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a052c4693a504163ae953"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913c"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 162000,
+  "createdAt": {
+    "$date": "2023-05-21T11:49:00.196Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:23:32.350Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a057c4693a504163ae95a"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9127"
+  },
+  "paymentMethod": "BANK",
+  "status": "DONE",
+  "amount": 140000,
+  "createdAt": {
+    "$date": "2023-05-21T11:50:20.286Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:34:05.358Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a05d24693a504163ae961"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9128"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 265000,
+  "createdAt": {
+    "$date": "2023-05-21T11:51:46.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:34:28.676Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a06364693a504163ae968"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db911a"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 345000,
+  "createdAt": {
+    "$date": "2023-05-21T11:53:26.590Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:24:31.151Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a070f721cb2b1164280e6"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9145"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 220000,
+  "createdAt": {
+    "$date": "2023-05-21T11:57:03.847Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T11:57:03.847Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a07404693a504163ae96f"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9129"
+  },
+  "paymentMethod": "BANK",
+  "status": "DONE",
+  "amount": 420000,
+  "createdAt": {
+    "$date": "2023-05-21T11:57:52.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:34:58.550Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a079c4693a504163ae976"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db911b"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T11:59:24.835Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:25:55.575Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a07b14693a504163ae97d"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9129"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T11:59:45.688Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:35:20.629Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a081a4693a504163ae984"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db911c"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 280000,
+  "createdAt": {
+    "$date": "2023-05-21T12:01:30.296Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:26:23.858Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0821721cb2b1164280ed"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db912a"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T12:01:37.845Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:35:49.971Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0825721cb2b1164280f4"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db914d"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 197000,
+  "createdAt": {
+    "$date": "2023-05-21T12:01:41.179Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:32:52.119Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a086f721cb2b1164280fb"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db914c"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 95000,
+  "createdAt": {
+    "$date": "2023-05-21T12:02:55.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:02:55.013Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a08a94693a504163ae98b"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db912b"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T12:03:53.838Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:36:18.921Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a08ed721cb2b116428102"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db911d"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 150000,
+  "createdAt": {
+    "$date": "2023-05-21T12:05:01.358Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:26:51.946Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a090f721cb2b116428109"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db912c"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 100000,
+  "createdAt": {
+    "$date": "2023-05-21T12:05:35.871Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:36:51.220Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a092e721cb2b116428110"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db914b"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T12:06:06.372Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:06:06.372Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a09c4721cb2b116428117"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9149"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 265000,
+  "createdAt": {
+    "$date": "2023-05-21T12:08:36.233Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:08:36.233Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0a1a721cb2b11642811e"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db912d"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 295000,
+  "createdAt": {
+    "$date": "2023-05-21T12:10:02.043Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:37:21.271Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0a7f4693a504163ae992"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9150"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 150000,
+  "createdAt": {
+    "$date": "2023-05-21T12:11:43.371Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:11:43.371Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0a95721cb2b116428125"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9142"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 347000,
+  "createdAt": {
+    "$date": "2023-05-21T12:12:05.173Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:27:21.565Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0aa7721cb2b11642812c"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db912e"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 150000,
+  "createdAt": {
+    "$date": "2023-05-21T12:12:23.088Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:37:48.049Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0acc721cb2b116428133"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db914a"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T12:13:00.515Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:13:00.515Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0aeb721cb2b11642813a"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9148"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T12:13:31.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:13:31.988Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0afa721cb2b116428141"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9148"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T12:13:46.606Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:13:46.606Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0b23721cb2b116428148"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db911e"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 147000,
+  "createdAt": {
+    "$date": "2023-05-21T12:14:27.737Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:28:29.522Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0b2e4693a504163ae999"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913a"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T12:14:38.577Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:38:20.934Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0b474693a504163ae9a0"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9146"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T12:15:03.118Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:15:03.118Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0bdb4693a504163ae9a7"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db911f"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 295000,
+  "createdAt": {
+    "$date": "2023-05-21T12:17:31.773Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:28:58.989Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0bdc721cb2b11642814f"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9146"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 195000,
+  "createdAt": {
+    "$date": "2023-05-21T12:17:32.098Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:25:06.579Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0c494693a504163ae9ae"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9120"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 100000,
+  "createdAt": {
+    "$date": "2023-05-21T12:19:21.965Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:29:23.409Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0c59721cb2b116428156"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9138"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 280000,
+  "createdAt": {
+    "$date": "2023-05-21T12:19:37.186Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:07:31.516Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0ce7721cb2b11642815d"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9138"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 100000,
+  "createdAt": {
+    "$date": "2023-05-21T12:21:59.665Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:06:30.841Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0d61721cb2b116428164"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9136"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 100000,
+  "createdAt": {
+    "$date": "2023-05-21T12:24:01.061Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:05:23.312Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0d61721cb2b11642816b"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9136"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 100000,
+  "createdAt": {
+    "$date": "2023-05-21T12:24:01.905Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:05:36.563Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0d8d4693a504163ae9b5"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9121"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 197000,
+  "createdAt": {
+    "$date": "2023-05-21T12:24:45.049Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:29:48.954Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0dbc4693a504163ae9bc"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9135"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 140000,
+  "createdAt": {
+    "$date": "2023-05-21T12:25:32.456Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:40:21.454Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0e08721cb2b116428172"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9143"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T12:26:48.882Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:26:48.882Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0e3d4693a504163ae9c3"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9133"
+  },
+  "paymentMethod": "BANK",
+  "status": "DONE",
+  "amount": 315000,
+  "createdAt": {
+    "$date": "2023-05-21T12:27:41.877Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:39:47.879Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0e704693a504163ae9ca"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9142"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T12:28:32.054Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T12:28:32.054Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a0edb721cb2b116428179"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9130"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T12:30:19.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:38:51.742Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0f08721cb2b116428180"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9131"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T12:31:04.972Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:33:38.090Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0f0f721cb2b116428187"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9140"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T12:31:11.693Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:17:57.490Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a0f34721cb2b11642818e"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9132"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T12:31:48.648Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:39:19.265Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a1c7e4693a504163aeaf0"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913f"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 100000,
+  "createdAt": {
+    "$date": "2023-05-21T13:28:30.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:16:58.315Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a1d064693a504163aeb53"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913e"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T13:30:46.286Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:15:15.353Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a1da14693a504163aebb2"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9122"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T13:33:21.480Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:33:21.480Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a1db14693a504163aebbe"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db9122"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 0,
+  "createdAt": {
+    "$date": "2023-05-21T13:33:37.318Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:14:01.393Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a1e4c4693a504163aec39"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913d"
+  },
+  "paymentMethod": "BANK",
+  "status": "DONE",
+  "amount": 307000,
+  "createdAt": {
+    "$date": "2023-05-21T13:36:12.290Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:12:27.315Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a1ed94693a504163aec98"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913a"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 280000,
+  "createdAt": {
+    "$date": "2023-05-21T13:38:33.418Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:38:33.418Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a1fc4721cb2b11642824c"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913a"
+  },
+  "paymentMethod": "MOMO",
+  "status": "DONE",
+  "amount": 280000,
+  "createdAt": {
+    "$date": "2023-05-21T13:42:28.474Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:09:31.383Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a20984693a504163aece2"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913c"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 285000,
+  "createdAt": {
+    "$date": "2023-05-21T13:46:00.998Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:46:00.998Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a21354693a504163aece9"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913c"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 197000,
+  "createdAt": {
+    "$date": "2023-05-21T13:48:37.957Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:48:37.957Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a21804693a504163aecf0"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913b"
+  },
+  "paymentMethod": "CASH",
+  "status": "DONE",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T13:49:52.342Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:10:44.065Z"
+  },
+  "__v": 0,
+  "note": null
+},{
+  "_id": {
+    "$oid": "646a21ea4693a504163aecf7"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913b"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 140000,
+  "createdAt": {
+    "$date": "2023-05-21T13:51:38.537Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:51:38.537Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a221d4693a504163aecfe"
+  },
+  "userId": {
+    "$oid": "64666f327bafbcaa64db913b"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 140000,
+  "createdAt": {
+    "$date": "2023-05-21T13:52:29.855Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:52:29.855Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a261e721cb2b116428272"
+  },
+  "userId": {
+    "$oid": "6469eae242bb099e0249f37c"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T14:09:34.752Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:09:34.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a263f721cb2b11642827d"
+  },
+  "userId": {
+    "$oid": "6469eafb42bb099e0249f37e"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T14:10:07.425Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:10:07.425Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a2653721cb2b116428288"
+  },
+  "userId": {
+    "$oid": "6469eb1242bb099e0249f380"
+  },
+  "paymentMethod": "CASH",
+  "status": "PENDING",
+  "amount": 175000,
+  "createdAt": {
+    "$date": "2023-05-21T14:10:27.228Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T14:10:27.228Z"
+  },
+  "__v": 0
+}]

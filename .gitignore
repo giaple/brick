@@ -1,0 +1,12 @@
+node_modules
+dist
+data
+*.env
+package-lock.json
+yarn.lock
+yarn-error.log
+src/schema.gql
+
+
+# not ignore
+!.env.example

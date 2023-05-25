@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "64664e1e7bafbcaa64db9078"
+  },
+  "name": "Tháo gel",
+  "categoryId": {
+    "$oid": "6459224bdcca031c7a3d90e3"
+  },
+  "price": 45000,
+  "minQuantity": 1,
+  "estTime": 30,
+  "imageUrls": [],
+  "tags": [],
+  "orderCount": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64664e1e7bafbcaa64db9079"
+  },
+  "name": "Đắp Gel/Bột",
+  "categoryId": {
+    "$oid": "6459224bdcca031c7a3d90e3"
+  },
+  "price": 300000,
+  "minQuantity": 1,
+  "estTime": 30,
+  "imageUrls": [],
+  "tags": [],
+  "orderCount": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64664e1e7bafbcaa64db907a"
+  },
+  "name": "Úp móng Gel X",
+  "categoryId": {
+    "$oid": "6459224bdcca031c7a3d90e3"
+  },
+  "price": 350000,
+  "minQuantity": 1,
+  "estTime": 60,
+  "imageUrls": [],
+  "tags": [],
+  "orderCount": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64664e1e7bafbcaa64db907b"
+  },
+  "name": "Cắt da tay/chân",
+  "categoryId": {
+    "$oid": "6459224bdcca031c7a3d90e3"
+  },
+  "price": 65000,
+  "minQuantity": 1,
+  "estTime": 20,
+  "imageUrls": [],
+  "tags": [],
+  "orderCount": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "__v": 0
+}]

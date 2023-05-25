@@ -1,0 +1,289 @@
+[{
+  "_id": {
+    "$oid": "646651f87bafbcaa64db907f"
+  },
+  "phoneCountryCode": "84",
+  "categoryId": {
+    "$oid": "6459224bdcca031c7a3d90e3"
+  },
+  "phoneNumber": "778722379",
+  "firstName": "Trân",
+  "lastName": "Bảo",
+  "role": "COLLABORATOR",
+  "schedule": {
+    "SUNDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "MONDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "TUESDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "THURSDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "FRIDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "SATURDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ]
+  },
+  "isAvailable": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646651f87bafbcaa64db9080"
+  },
+  "phoneCountryCode": "84",
+  "categoryId": {
+    "$oid": "6459224bdcca031c7a3d90e3"
+  },
+  "phoneNumber": "968421940",
+  "firstName": "My",
+  "lastName": "Nguyễn Kiều Hạ",
+  "role": "COLLABORATOR",
+  "schedule": {
+    "SUNDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "MONDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "TUESDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "THURSDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "FRIDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "SATURDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ]
+  },
+  "isAvailable": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646651f87bafbcaa64db9081"
+  },
+  "phoneCountryCode": "84",
+  "categoryId": {
+    "$oid": "6459224bdcca031c7a3d90e3"
+  },
+  "phoneNumber": "779521994",
+  "firstName": "Hiền",
+  "lastName": "Dương",
+  "role": "COLLABORATOR",
+  "schedule": {
+    "SUNDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "MONDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "TUESDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "THURSDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "FRIDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "SATURDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ]
+  },
+  "isAvailable": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646651f87bafbcaa64db9082"
+  },
+  "phoneCountryCode": "84",
+  "categoryId": {
+    "$oid": "6459224bdcca031c7a3d90e3"
+  },
+  "phoneNumber": "933001571",
+  "firstName": "Kiều",
+  "lastName": "",
+  "role": "COLLABORATOR",
+  "schedule": {
+    "SUNDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "MONDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "TUESDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "THURSDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "FRIDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ],
+    "SATURDAY": [
+      {
+        "startTime": 420,
+        "endTime": 1320,
+        "isActive": true
+      }
+    ]
+  },
+  "isAvailable": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "__v": 0
+}]

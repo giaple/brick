@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6459224bdcca031c7a3d90e3"
+  },
+  "name": "Nails",
+  "ancestorIds": [],
+  "description": "Nails With Nook",
+  "code": "NAIL000",
+  "imageUrls": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T00:00:00.000Z"
+  },
+  "__v": 0
+}]

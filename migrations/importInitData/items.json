@@ -1,0 +1,119 @@
+[
+  {
+    "_id": {
+      "$oid": "64664b367bafbcaa64db9073"
+    },
+    "name": "Trending Star",
+    "categoryId": {
+      "$oid": "6459224bdcca031c7a3d90e3"
+    },
+    "price": 350000,
+    "minQuantity": 1,
+    "estTime": 150,
+    "imageUrls": [],
+    "tags": ["Combo"],
+    "subName": "Sơn gel và thiết kế theo mẫu yêu cầu",
+    "content": "",
+    "orderCount": 0,
+    "optionIds": [
+      {
+        "$oid": "64664e1e7bafbcaa64db9078"
+      },
+      {
+        "$oid": "64664e1e7bafbcaa64db9079"
+      },
+      {
+        "$oid": "64664e1e7bafbcaa64db907a"
+      },
+      {
+        "$oid": "64664e1e7bafbcaa64db907b"
+      }
+    ],
+    "isActive": true,
+    "createdAt": {
+      "$date": "2023-05-05T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-05T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64664b367bafbcaa64db9074"
+    },
+    "name": "The Minimalist",
+    "categoryId": {
+      "$oid": "6459224bdcca031c7a3d90e3"
+    },
+    "price": 250000,
+    "minQuantity": 1,
+    "estTime": 150,
+    "imageUrls": [],
+    "tags": ["Combo"],
+    "subName": "Sơn gel 1 màu",
+    "content": "",
+    "orderCount": 0,
+    "optionIds": [
+      {
+        "$oid": "64664e1e7bafbcaa64db9078"
+      },
+      {
+        "$oid": "64664e1e7bafbcaa64db9079"
+      },
+      {
+        "$oid": "64664e1e7bafbcaa64db907a"
+      },
+      {
+        "$oid": "64664e1e7bafbcaa64db907b"
+      }
+    ],
+    "isActive": true,
+    "createdAt": {
+      "$date": "2023-05-05T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-05T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64664b367bafbcaa64db9075"
+    },
+    "name": "The Classic",
+    "categoryId": {
+      "$oid": "6459224bdcca031c7a3d90e3"
+    },
+    "price": 280000,
+    "minQuantity": 1,
+    "estTime": 150,
+    "imageUrls": [],
+    "tags": ["Combo"],
+    "subName": "Sơn gel mix 2 màu trở lên",
+    "content": "",
+    "orderCount": 0,
+    "optionIds": [
+      {
+        "$oid": "64664e1e7bafbcaa64db9078"
+      },
+      {
+        "$oid": "64664e1e7bafbcaa64db9079"
+      },
+      {
+        "$oid": "64664e1e7bafbcaa64db907a"
+      },
+      {
+        "$oid": "64664e1e7bafbcaa64db907b"
+      }
+    ],
+    "isActive": true,
+    "createdAt": {
+      "$date": "2023-05-05T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-05T00:00:00.000Z"
+    },
+    "__v": 0
+  }
+]
